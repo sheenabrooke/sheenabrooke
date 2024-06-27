@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title>Ms. Breeding's Class- Hazard High School</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="msbreeding.jpg" alt="Sheena's Page" title=">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="literature.html">AP Literature</a></td>
+<td><a href="aplanguage.html">AP Language</a></td>
+<td><a href="englishI.html">English I</a></td>
+<td><a href="englishII.html">English II</a></td>
+</tr>
+</nav>
+</body>
